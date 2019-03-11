@@ -3,6 +3,8 @@ import { shorthands } from "./shorthands";
 const whitelist = [
   "padding",
   "margin",
+  "borderWidth",
+  "borderRadius",
   "borderColor",
   "borderStyle",
   "borderWidth"
