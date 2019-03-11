@@ -20,24 +20,9 @@
     "backgroundColor": "transparent"
   },
   "border": {
-    "borderWidth": {
-      "borderTopWidth": "medium",
-      "borderRightWidth": "medium",
-      "borderBottomWidth": "medium",
-      "borderLeftWidth": "medium"
-    },
-    "borderStyle": {
-      "borderTopStyle": "none",
-      "borderRightStyle": "none",
-      "borderBottomStyle": "none",
-      "borderLeftStyle": "none"
-    },
-    "borderColor": {
-      "borderTopColor": "currentcolor",
-      "borderRightColor": "currentcolor",
-      "borderBottomColor": "currentcolor",
-      "borderLeftColor": "currentcolor"
-    }
+    "borderWidth": "medium",
+    "borderStyle": "none",
+    "borderColor": "currentcolor"
   },
   "borderBottom": {
     "borderBottomWidth": "medium",
