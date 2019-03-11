@@ -1,6 +1,6 @@
 {
   "name": "css-shorthand",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a simple javascript utility to expand css shorthand values",
   "main": "index.js",
   "scripts": {
