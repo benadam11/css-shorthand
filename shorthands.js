@@ -20,24 +20,9 @@ export const shorthands = {
     backgroundColor: "transparent"
   },
   border: {
-    borderWidth: {
-      borderTopWidth: "medium",
-      borderRightWidth: "medium",
-      borderBottomWidth: "medium",
-      borderLeftWidth: "medium"
-    },
-    borderStyle: {
-      borderTopStyle: "none",
-      borderRightStyle: "none",
-      borderBottomStyle: "none",
-      borderLeftStyle: "none"
-    },
-    borderColor: {
-      borderTopColor: "currentcolor",
-      borderRightColor: "currentcolor",
-      borderBottomColor: "currentcolor",
-      borderLeftColor: "currentcolor"
-    }
+    borderWidth: "medium",
+    borderStyle: "none",
+    borderColor: "currentcolor"
   },
   borderBottom: {
     borderBottomWidth: "medium",
@@ -163,7 +148,7 @@ export const shorthands = {
     paddingBottom: 0,
     paddingLeft: 0,
     paddingRight: 0,
-    paddingop: 0
+    paddingTop: 0
   },
   textDecoration: {
     textDecorationColor: "currentcolor",

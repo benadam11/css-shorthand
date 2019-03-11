@@ -163,7 +163,7 @@
     "paddingBottom": 0,
     "paddingLeft": 0,
     "paddingRight": 0,
-    "paddingop": 0
+    "paddingTop": 0
   },
   "textDecoration": {
     "textDecorationColor": "currentcolor",
