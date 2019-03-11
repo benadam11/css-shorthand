@@ -1,0 +1,23 @@
+{
+  "name": "css-shorthand",
+  "version": "1.0.0",
+  "description": "a simple javascript utility to expand css shorthand values",
+  "main": "transforms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benadam11/css-shorthand.git"
+  },
+  "keywords": [
+    "css-in-js",
+    "shorthand"
+  ],
+  "author": "Ben Adam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benadam11/css-shorthand/issues"
+  },
+  "homepage": "https://github.com/benadam11/css-shorthand#readme"
+}
